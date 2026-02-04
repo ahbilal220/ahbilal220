@@ -93,5 +93,4 @@ Forman Christian College Lahore
 
 ## 📫 Contact
 - 📧 Email: **ahbilal220@gmail.com**
-- 🌍 GitHub: https://github.com/ahbilal220
 - 📍 Lahore, Pakistan
